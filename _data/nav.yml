@@ -1,0 +1,10 @@
+navItems:
+
+- title: Experience
+  url: experience.html
+
+- title: Projects
+  url: projects.html
+
+- title: Education
+  url: education.html
